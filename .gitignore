@@ -2,3 +2,6 @@
 /train_images
 *.npy
 *.csv
+
+__pycache__/
+*.py[cod]
